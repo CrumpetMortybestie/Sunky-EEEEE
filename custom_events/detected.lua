@@ -763,5 +763,3 @@ function update(elapsed)
 	TEMPLATE.update(elapsed)
 	
 end
-
-    end
