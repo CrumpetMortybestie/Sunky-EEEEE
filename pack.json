@@ -1,7 +1,7 @@
 {
-	"name": "sunky",
-	"description": holy crap is that sunky from sunky???/?/?",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [170, 0, 255]
+    "name": "sunky",
+    "description": "holy crap is that sunky from sunky???/?/?",
+    "restart": false,
+    "runsGlobally": false,
+    "color": [170, 0, 255]
 }
