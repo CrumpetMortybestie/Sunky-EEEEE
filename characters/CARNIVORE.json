@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "VHS_IDLE"
+		},
+		{
+			"offsets": [
+				170,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "VHS_LEFT"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "VHS_RIGHT"
+		},
+		{
+			"offsets": [
+				50,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "VHS_UP"
+		},
+		{
+			"offsets": [
+				70,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "VHS_DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/carnivore",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		61
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

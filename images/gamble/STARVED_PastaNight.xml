@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="starved pasta.png"><SubTexture name="useless0000" x="3730" y="1259" width="1242" height="1257" frameX="-11" frameY="-43" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="useless0001" x="1244" y="1286" width="1246" height="1265" frameX="-19" frameY="-35" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="useless0002" x="1242" y="0" width="1246" height="1274" frameX="-23" frameY="-26" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="useless0003" x="0" y="0" width="1242" height="1286" frameX="-27" frameY="-14" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0000" x="2488" y="0" width="1242" height="1273" frameX="-25" frameY="-27" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0001" x="0" y="1286" width="1244" height="1267" frameX="-23" frameY="-33" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0002" x="3730" y="0" width="1244" height="1259" frameX="-17" frameY="-41" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0003" x="0" y="1286" width="1244" height="1267" frameX="-23" frameY="-33" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0004" x="2488" y="0" width="1242" height="1273" frameX="-25" frameY="-27" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0005" x="0" y="0" width="1242" height="1286" frameX="-27" frameY="-14" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0006" x="1242" y="0" width="1246" height="1274" frameX="-23" frameY="-26" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0007" x="1244" y="1286" width="1246" height="1265" frameX="-19" frameY="-35" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0008" x="3730" y="1259" width="1242" height="1257" frameX="-11" frameY="-43" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0009" x="1244" y="1286" width="1246" height="1265" frameX="-19" frameY="-35" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0010" x="1242" y="0" width="1246" height="1274" frameX="-23" frameY="-26" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="idle0011" x="0" y="0" width="1242" height="1286" frameX="-27" frameY="-14" frameWidth="1300" frameHeight="1300" />
+</TextureAtlas>

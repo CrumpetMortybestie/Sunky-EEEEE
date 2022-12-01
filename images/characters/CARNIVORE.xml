@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CARNIVORE.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VHS_DOWN instance 10000" x="1051" y="517" width="437" height="455" pivotX="-7.5" pivotY="21.45" frameX="0" frameY="-27" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_DOWN instance 10001" x="1051" y="517" width="437" height="455" frameX="0" frameY="-27" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_DOWN instance 10002" x="0" y="517" width="442" height="465" frameX="-4" frameY="-18" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_DOWN instance 10003" x="0" y="517" width="442" height="465" frameX="-4" frameY="-18" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_DOWN instance 10004" x="2976" y="516" width="438" height="485" frameX="-4" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_DOWN instance 10005" x="2976" y="516" width="438" height="485" frameX="-4" frameY="0" frameWidth="446" frameHeight="485"/>
+	<SubTexture name="VHS_IDLE instance 10000" x="1488" y="706" width="322" height="521" pivotX="18.85" pivotY="8.75" frameX="-16" frameY="-6" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10001" x="1488" y="706" width="322" height="521" frameX="-16" frameY="-6" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10002" x="442" y="702" width="330" height="524" frameX="-10" frameY="-3" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10003" x="442" y="702" width="330" height="524" frameX="-10" frameY="-3" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10004" x="3758" y="517" width="331" height="527" frameX="-9" frameY="0" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10005" x="3758" y="517" width="331" height="527" frameX="-9" frameY="0" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10006" x="2070" y="687" width="342" height="527" frameX="-2" frameY="0" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10007" x="2070" y="687" width="342" height="527" frameX="-2" frameY="0" frameWidth="344" frameHeight="527"/>
+	<SubTexture name="VHS_IDLE instance 10008" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10009" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10010" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10011" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10012" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10013" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10014" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10015" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10016" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10017" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10018" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_IDLE instance 10019" x="3414" y="517" width="344" height="527"/>
+	<SubTexture name="VHS_LEFT instance 10000" x="3088" y="0" width="488" height="516" pivotX="14.25" pivotY="-16.7" frameX="0" frameY="-3" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_LEFT instance 10001" x="3088" y="0" width="488" height="516" frameX="0" frameY="-3" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_LEFT instance 10002" x="3576" y="0" width="478" height="517" frameX="-10" frameY="-2" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_LEFT instance 10003" x="3576" y="0" width="478" height="517" frameX="-10" frameY="-2" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_LEFT instance 10004" x="2509" y="515" width="467" height="519" frameX="-21" frameY="0" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_LEFT instance 10005" x="2509" y="515" width="467" height="519" frameX="-21" frameY="0" frameWidth="488" frameHeight="519"/>
+	<SubTexture name="VHS_RIGHT instance 10000" x="0" y="0" width="614" height="517" pivotX="9.15" pivotY="-23.25"/>
+	<SubTexture name="VHS_RIGHT instance 10001" x="0" y="0" width="614" height="517"/>
+	<SubTexture name="VHS_RIGHT instance 10002" x="1051" y="0" width="591" height="517" frameX="-10" frameY="0" frameWidth="614" frameHeight="517"/>
+	<SubTexture name="VHS_RIGHT instance 10003" x="1051" y="0" width="591" height="517" frameX="-10" frameY="0" frameWidth="614" frameHeight="517"/>
+	<SubTexture name="VHS_RIGHT instance 10004" x="2509" y="0" width="579" height="515" frameX="-25" frameY="-2" frameWidth="614" frameHeight="517"/>
+	<SubTexture name="VHS_UP instance 10000" x="1642" y="0" width="428" height="706" pivotX="-4.5" pivotY="1.35" frameX="-3" frameY="0" frameWidth="441" frameHeight="706"/>
+	<SubTexture name="VHS_UP instance 10001" x="1642" y="0" width="428" height="706" frameX="-3" frameY="0" frameWidth="441" frameHeight="706"/>
+	<SubTexture name="VHS_UP instance 10002" x="614" y="0" width="437" height="702" frameX="0" frameY="-4" frameWidth="441" frameHeight="706"/>
+	<SubTexture name="VHS_UP instance 10003" x="614" y="0" width="437" height="702" frameX="0" frameY="-4" frameWidth="441" frameHeight="706"/>
+	<SubTexture name="VHS_UP instance 10004" x="2070" y="0" width="439" height="687" frameX="-2" frameY="-18" frameWidth="441" frameHeight="706"/>
+</TextureAtlas>
